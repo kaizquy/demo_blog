@@ -1,0 +1,37 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "QuyMaxx"
+logo = "img/CERBERUS_Esports.png"
+# description = "My awesome website"
+copyright = ":copyright: 2024 Meaty Media All Rights Reserved"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "QuyMaxx"
+  image = "img/BlogQuy.jpg"
+  headline = "Ăn Quả Nhớ Nhả Hột Ra :3"
+  bio = "Uống Nước Nhớ Đun Sôi :3"
+  links = [
+    { email = "mailto:huydoan2468@gmail.com" },
+#   { link = "https://distractedhobbyists.com/" },
+#   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#   { dev = "https://dev.to/miethe" },
+#   { flickr = "https://www.flickr.com/photos/username/" },
+#   { github = "https://github.com/miethe" },
+    { facebook = "https://www.facebook.com/quykaizz/" },
+    { instagram = "https://www.instagram.com/26q_qi/" },
+#   { keybase = "https://keybase.io/username" },
+#   { linkedin = "https://linkedin.com/in/miethe" },
+#   { mastodon = "https://masto.ai/@miethe" },
+#   { medium = "https://medium.com/username" },
+#   { reddit = "https://reddit.com/user/username" },
+#   { slack = "https://workspace.url/team/userid" },
+#   { twitter = "https://twitter.com/username" },
+#   { youtube = "https://youtube.com/username" },
+  ]
